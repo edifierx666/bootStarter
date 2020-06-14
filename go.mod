@@ -1,4 +1,4 @@
-module bootStarter
+module github.com/edifierx666/bootStarter
 
 go 1.14
 
