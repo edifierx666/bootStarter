@@ -1,4 +1,4 @@
-package boot_starter
+package bootStarter
 
 var Hubs = NewHub()
 var RegisterStarter = Hubs.Register
