@@ -1,4 +1,4 @@
-module boot_starter
+module bootStarter
 
 go 1.14
 
