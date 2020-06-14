@@ -31,6 +31,7 @@ func (i *BootApp) WaitingExit() {
 		for _, starter := range GetAllStarter() {
 			starter.Stop()
 		}
+		break
 	}
 }
 
